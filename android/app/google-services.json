@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282075577434",
+    "project_id": "mineapp-14236",
+    "storage_bucket": "mineapp-14236.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282075577434:android:6a3064e6a147b9333eec63",
+        "android_client_info": {
+          "package_name": "com.example.mineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282075577434-skjkdmi3735mi20mlirrc1lqubeksdec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHYD5P_97eDru9i3rIfJBG-ETXH7eXhqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282075577434-skjkdmi3735mi20mlirrc1lqubeksdec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
