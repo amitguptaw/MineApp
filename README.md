@@ -1,3 +1,3 @@
 # mineapp
 
-A new Flutter projeccomplete social media app.
+A new Flutter project complete social media app.
